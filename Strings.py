@@ -1,5 +1,4 @@
 list = []
-list2 = []
 base = 0
 length = input("Enter Length/Number that you want to filter by: ")
 
