@@ -1,7 +1,7 @@
 list = []
 list2 = []
 base = 0
-length = input("Enter Length/Number that you want: ")
+length = input("Enter Length/Number that you want to filter by: ")
 
 while True:
     while base != 10:
