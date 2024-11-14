@@ -13,8 +13,7 @@ while True:
     if base == 10:
         break
     
-print("These are the Word that meet the condition ", list)
-        
+print("These are the Word/s that met the condition ", list)
    
             
                 
